@@ -32,7 +32,7 @@
     "core-js": "^3.1.2",
     "flush-promises": "^1.0.2",
     "moment": "^2.24.0",
-    "popper.js": "^1.16.0",
+    "popper.js": "https://github.com/DevFullStackJS/popper.js.git",
     "vue": "^2.6.11",
     "vue-chartjs": "^3.4.2",
     "vue-numeric": "^2.3.0",
